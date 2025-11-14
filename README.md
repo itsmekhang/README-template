@@ -53,12 +53,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
-
+This project utilizes several ML methods to classify 80x80 RGB patches and to label them "ship" or "no ship. The model with the best performance are used to dectect the number of ships present for satilite scenes through sliding windown dectection method 
 [Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
 
-You can include tables or images to summarize your results when and if appropriate.
+<img width="458" height="311" alt="image" src="https://github.com/user-attachments/assets/86938c6a-2ee2-4820-84a6-0f50406a5603" />
+<img width="445" height="311" alt="image" src="https://github.com/user-attachments/assets/3a96afcf-f6f1-4816-865f-47bd51b2416f" />
+<img width="399" height="298" alt="image" src="https://github.com/user-attachments/assets/ecba8d05-c580-4db7-a0b7-a5b44c8c4917" />
+<img width="399" height="298" alt="image" src="https://github.com/user-attachments/assets/2e3504d0-fc0e-4d04-8685-95a64be2639e" />
+
+
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
